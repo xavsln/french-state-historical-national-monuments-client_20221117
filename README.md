@@ -16,10 +16,9 @@ This is a great way to get to discover Historical Monuments!
 
 # API used:
 
-- Teleport Public API (https://developers.teleport.org/api/getting_started/)
 - French State Historical National Monuments API - Documentation (https://historical-national-monuments.herokuapp.com/documentation.html)
 - French State Historical National Monuments API - GitHub page (https://github.com/xavsln/french-state-historical-national-monuments-API)
 
 # Link to Website:
 
-<!-- - [Link to website](https://xavsln.github.io/cities-to-live-and-work_20220614/) -->
+- [Link to website](https://xavsln.github.io/french-state-historical-national-monuments-client_20221117/)
