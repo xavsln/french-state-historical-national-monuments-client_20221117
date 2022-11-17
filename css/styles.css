@@ -1,0 +1,107 @@
+* {
+  /* border: 1px solid blue; */
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  /* background-color: lightgrey; */
+  background-image: url("../img/background_shapelined.jpg");
+  /* https://unsplash.com/photos/_JBKdviweXI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.navbar-custom {
+  background-color: #8b8b8b;
+}
+
+#logo-navbar {
+  max-height: 60px;
+}
+
+#loading-message-placeholder {
+  text-align: center;
+}
+
+#loading-spinner-icon {
+  width: 25px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.container-main {
+  /* margin-bottom:  */
+  margin-top: 120px;
+  margin-bottom: auto;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+  width: 100%;
+  max-width: 200px;
+}
+
+.card:hover {
+  /* opacity: 1; */
+  box-shadow: rgba(0, 0, 0, 1) 0px 0px 0px;
+}
+
+.card-title {
+  width: 100%;
+  height: 80px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.modal-scores-summary {
+  padding: 15px 0px;
+}
+
+.footer {
+  margin-top: 100px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  background-color: #8b8b8b;
+}
+
+.footer p {
+  font-size: 0.9rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  color: #fff;
+}
+
+.footer a {
+  color: inherit;
+}
+
+/* =================================================================================================== */
+/* ABOUT PAGE */
+/* =================================================================================================== */
+
+.about-section {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+li > a {
+  color: white;
+}
+
+h3 {
+  border-bottom: 1px solid grey;
+}
