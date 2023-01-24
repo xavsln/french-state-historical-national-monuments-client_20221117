@@ -1,3 +1,7 @@
+![My Image](img/app-screenshot_historical-monuments.png)
+
+---
+
 # About:
 
 This simple JavaScript App makes use of the a Public API to fetch data in relation to the Historical National Monuments owned by the French State.
